@@ -5,6 +5,7 @@ function App() {
 
   return (
     <main className="App">
+      <h1>Bulletin Board</h1>
       <AddPostForm />
       <PostList />
     </main>
